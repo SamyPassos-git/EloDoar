@@ -50,7 +50,8 @@ A plataforma atende principalmente pessoas de baixa renda, desempregados, pessoa
 
 ### Back-End
 
-* (A definir)
+* Python: Desenvolvimento da lógica do servidor e API
+* SQLite: Banco de dados leve para armazenamento das informações
 
 ---
 
