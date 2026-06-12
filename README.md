@@ -6,7 +6,7 @@ Projeto Prático – Direitos Humanos + Empreendedorismo
 
 ## Apresentação em vídeo
 
-**Vídeo para avaliação:**: [Clique aqui](https://youtu.be/F8JfZqmBjnI)
+**Vídeo para avaliação:** [Clique aqui](https://youtu.be/F8JfZqmBjnI)
 
 ---
 
