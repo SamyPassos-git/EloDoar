@@ -4,6 +4,12 @@ Projeto Prático – Direitos Humanos + Empreendedorismo
 
 ---
 
+## Apresentação em vídeo
+
+Assista ao vídeo: [Clique aqui](https://youtu.be/F8JfZqmBjnI)
+
+---
+
 ## 📌 Sobre o Projeto
 
 O **EloDoar** é uma aplicação digital desenvolvida com o objetivo de conectar pessoas que desejam doar objetos a indivíduos e instituições em situação de vulnerabilidade social. A proposta utiliza a tecnologia como ponte para facilitar o acesso a recursos básicos, promovendo impacto social positivo.
@@ -52,6 +58,14 @@ A plataforma atende principalmente pessoas de baixa renda, desempregados, pessoa
 
 * Python: Desenvolvimento da lógica do servidor e API
 * SQLite: Banco de dados leve para armazenamento das informações
+
+---
+
+## Equipe
+
+* Samyla Passos
+* Rhyan Borsoneli
+* Breno Caparrosa
 
 ---
 
